@@ -3,6 +3,11 @@
 
 This was created with https://github.com/StreamElements/widgets/tree/master/CustomChat as a template.
 
+Preview video:
+
+
+https://user-images.githubusercontent.com/24556317/164316673-b420da11-9c4d-4df8-86e4-25c8925e2311.mp4
+
 Install:
 1. Create a custom widget on Streamelements overlays
 2. Open Editor
