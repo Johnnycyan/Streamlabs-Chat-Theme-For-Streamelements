@@ -50,7 +50,7 @@
     grid-column-end: 3;
     word-wrap: break-word;
     white-space: nowrap;
-    text-overflow: hidden;
+    text-overflow: ellipsis;
     overflow:hidden;
     text-align:right;
     grid-area: user;
@@ -59,6 +59,8 @@
 
 .user-box > span{
     font-size:{{fontSize}}px;
+    top: -0.2rem;
+    position: relative;
 }
 
 .user-message{
@@ -71,6 +73,8 @@
     align:left;
     grid-area: message;
     grid-column: 3/span 3;
+    top: -.2rem;
+	position: relative;
 }
 
 .emote{
